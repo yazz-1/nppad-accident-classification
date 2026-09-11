@@ -12,7 +12,7 @@ __pycache__/
 
 # Datos pesados (descomentar si decides no subirlos)
 data/raw/
-data/processed
-
+data/processed/dose
+data/processed/operation
 
 
