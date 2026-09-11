@@ -13,9 +13,6 @@ __pycache__/
 # Datos pesados (descomentar si decides no subirlos)
 data/raw/
 data/processed
-data/*.csv
 
-# Modelos pesados (opcional)
-results/modelos/*.joblib
 
 
