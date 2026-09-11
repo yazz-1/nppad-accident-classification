@@ -1,0 +1,21 @@
+# Entornos
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos pesados (descomentar si decides no subirlos)
+data/raw/
+data/processed
+data/*.csv
+
+# Modelos pesados (opcional)
+results/modelos/*.joblib
+
+
